@@ -1,5 +1,3 @@
-unittests for models/base_model.py.
-
 Unittest classes:
     TestBaseModel_instantiation
     TestBaseModel_save
